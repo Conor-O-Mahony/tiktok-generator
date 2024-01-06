@@ -1,6 +1,6 @@
 # TikTok Generator
 
-GUI based autogeneration of TikToks by clipping a main and background video file and scheduling for upload
+GUI based autogeneration of TikToks by clipping a main and background video file, complining them in TikTok format and scheduling for upload.
 
 ## Installation
 
