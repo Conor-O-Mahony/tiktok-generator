@@ -2,7 +2,7 @@
 
 GUI based autogeneration of TikToks by clipping a main and background video file, compiling them in TikTok format and scheduling for upload.
 
-![GUI](https://imgur.com/a/U2MusvN)
+![GUI](https://i.imgur.com/rah104D.png)
 
 ## Installation
 
